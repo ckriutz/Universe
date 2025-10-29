@@ -36,6 +36,10 @@ const About = () => {
             <li>Energy-efficient and eco-friendly materials</li>
             <li>Sleek, modern designs that complement your home</li>
           </ul>
+          <h2 className="text-2xl font-bold text-primary">Our Humble Beginnings</h2>
+          <p>
+            We started with a simple meow-ssion: tinker in a cozy garage like any scrappy startup — only instead of chasing the next search engine we chased laser pointers, feather wands, and smart snack dispensers. From those early litter-box prototypes we grew into a full-fledged cat tech outfitter: toys, wellness gear, enrichment hubs — everything to keep whiskers twitching. Eventually we stretched, left the garage, and pounced on serious VC funding (venture cat‑pital) to scale our feline innovation across the galaxy.
+          </p>
           <div className={`mt-8 p-4 ${darkMode ? 'bg-gray-700' : 'bg-gray-200'} rounded-lg transition-colors duration-300`}>
             <p className="italic">
               "Our cats tested every product in our catalog extensively. Only the ones they 
